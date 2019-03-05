@@ -8,5 +8,5 @@ def using_unshift(arr, arg)
 end 
 
 def using_pop (arr)
-  arr.pop(arg)
+  arr.pop
 end
