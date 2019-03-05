@@ -11,6 +11,6 @@ def using_pop (arr)
   arr.pop
 end
 
-def using_pop (arr)
+def using_pops (arr)
   arr.pop(2)
 end
