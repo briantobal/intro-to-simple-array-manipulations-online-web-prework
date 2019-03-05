@@ -10,3 +10,7 @@ end
 def using_pop (arr)
   arr.pop
 end
+
+def using_pop (arr)
+  arr.pop(2)
+end
