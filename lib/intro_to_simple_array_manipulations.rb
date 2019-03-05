@@ -1,4 +1,4 @@
 def using_push (arr, arg)
-  arr=array.new
+  arr=Array.new
   arr.push(arg)
 end 
