@@ -1,3 +1,3 @@
-def using_push (arg)
+def using_push (array, arg)
   arg
 end 
