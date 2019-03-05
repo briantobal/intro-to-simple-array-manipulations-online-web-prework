@@ -8,5 +8,6 @@ def using_unshift(arr, arg)
 end 
 
 def using_pop (arr, arg)
+  arr=Array.new
   arr.pop(arg)
 end
